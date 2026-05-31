@@ -1,7 +1,7 @@
 # Hi, I'm Rawan 👋
 **Data Science & AI student at the American University of Bahrain (AUBH)**
 
-I'm building a foundation in programming and machine learning, and I'm interested in how AI gets applied across technology and business.
+I'm building a foundation in programming, statistics, and machine learning, and I'm interested in how AI gets applied across technology and business.
 
 ---
 
