@@ -6,7 +6,7 @@ I'm building a foundation in programming, statistics, and machine learning, and 
 ---
 
 ### 🌱 What I'm up to
-- First-year BSc Data Science & AI student: Inspire, Lead & Compete Scholarship · Dean's List (Fall 2025)
+- First-year BSc Data Science & AI student: Inspire, Lead & Compete Scholarship · Dean's List
 - Research Assistant at AUBH: literature review writing, data collection, and academic writing
 - Member of the IEEE Student Branch: hands-on workshops in Python/OpenCV computer vision, SolidWorks, electronics, and more
 
